@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Blevin Boret Kiterie</h1>
-<h3 align="center">A frontend developer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Blevin</h1>
+<h3 align="center">Frontend developer</h3>
 <img alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boretkiterie&label=Profile%20views&color=0e75b6&style=flat" alt="boretkiterie" /> </p>
